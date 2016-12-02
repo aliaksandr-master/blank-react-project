@@ -1,5 +1,11 @@
 #blank-react-project
 
+## install
+
+```
+$ npm install && npm dedupe
+```
+
 ## run
 
 ```bash
